@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = younesyounes066@gmail.com
+	name = Younes Saidi
